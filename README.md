@@ -50,16 +50,8 @@ Installation der Python-Pakete: `pip install pandas pdfplumber vaderSentiment`
 
 ## Reihenfolge der Ausführung
 
-**Deutsches Teilkorpus:**
-1. `filter_bundestag.py`
-2. `frequenzanalyse_kampfbegriffe.py`
-3. `sentiment_kampfbegriffe.py`
-
-**US-amerikanisches Teilkorpus:**
-1. `download_congressional_record.R`
-2. `pdf_zu_txt.py`
-3. `clean_txt.py`
-4. `sentiment_congress.py`
+Die Skripte sind nach Teilkorpus in `scripts/de/` und `scripts/us/` 
+geordnet. Die Ausführungsreihenfolge ergibt sich aus den Skriptnamen.
 
 ## Lizenz
 
