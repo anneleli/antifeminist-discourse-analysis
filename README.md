@@ -28,18 +28,6 @@ Sie können hier bezogen werden:
 - **US-amerikanisches Teilkorpus:** Congressional Record.  
   https://www.congress.gov/congressional-record
 
-## Struktur
-
-```
-antifeminist-discourse-analysis/
-├── scripts/
-│   ├── de/               # Skripte für das deutsche Teilkorpus
-│   └── us/               # Skripte für das US-amerikanische Teilkorpus
-└── results/
-    ├── de/               # Ergebnisse deutsches Teilkorpus
-    └── us/               # Ergebnisse US-amerikanisches Teilkorpus
-```
-
 ## Skripte
 
 | Skript | Sprache | Beschreibung |
