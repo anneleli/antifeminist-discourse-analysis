@@ -46,10 +46,7 @@ Sie können hier bezogen werden:
 - Pakete: `pandas`, `re`, `pdfplumber`, `vaderSentiment`
 - R (für `download_congressional_record.R`)
 
-Installation der Python-Pakete:
-```bash
-pip install pandas pdfplumber vaderSentiment
-```
+Installation der Python-Pakete: `pip install pandas pdfplumber vaderSentiment`
 
 ## Reihenfolge der Ausführung
 
